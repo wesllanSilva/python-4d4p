@@ -2,7 +2,7 @@
  
 <!--Banner session-->
 <p align="center">
-  <img src="./img/wstack-logo.png" alt="DIO" tittle="Wstack Solution">
+  <img src="./img/wstack-logo-sf.png" alt="Wstack" tittle="Wstack Solution" width="300" height="300">
 </p>
  
 <p align="center">
