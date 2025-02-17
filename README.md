@@ -26,7 +26,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Projetos com Python Puro -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://github.com/wesllanSilva/python-4d4p">Projetos com Python Puro</a></th>
+                <th colspan="3"><a href="https://github.com/wesllanSilva/python-4d4p/Python">Projetos com Python Puro</a></th>
             </tr>
             <tr>
                 <th colspan="3"> Python (Controle financeiro)</th>
