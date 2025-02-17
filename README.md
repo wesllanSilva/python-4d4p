@@ -12,7 +12,7 @@
     <img src="./img/django-icon.svg" alt="Django" tittle="Django" width="70" height="70">
   </a>
   <!-- Python -->
-  <a href="https://github.com/wesllanSilva/python-4d4p/tree/main/Python">
+  <a href="https://github.com/wesllanSilva/python-4d4p/tree/main/Python/Controle_Finaceiro">
     <img src="./img/python.svg" alt="python" tittle="Python" width="70" height="70">
 </p><br>
 
@@ -26,7 +26,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Projetos com Python Puro -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://github.com/wesllanSilva/python-4d4p/Python">Projetos com Python Puro</a></th>
+                <th colspan="3"><a href="https://github.com/wesllanSilva/python-4d4p/Python/Controle_Finaceiro">Projetos com Python Puro</a></th>
             </tr>
             <tr>
                 <th colspan="3"> Python (Controle financeiro)</th>
@@ -38,12 +38,12 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Criando um Sistema de Controle financeiro com Python</td>
-                <td><a href="https://github.com/wesllanSilva/python-4d4p/blob/main/Python/Sistema_Bancarios01.py">Código</a></td>
+                <td><a href="https://github.com/wesllanSilva/python-4d4p/blob/main/Python/Controle_Finaceiro/template.py">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Otimizando o Sistema de Controle financeiro com Funções Python</td>
-                <td><a href="https://github.com/wesllanSilva/python-4d4p/blob/main/Python/Sistema_Bancario_V2">Código</a></td>
+                <td>Testes Com Python</td>
+                <td><a href="https://github.com/wesllanSilva/python-4d4p/blob/main/Python/Teste/README.md">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                
         </table>                   
