@@ -8,28 +8,28 @@
 <p align="center">
 
   <!-- Django -->
-  <a href="https://github.com/wesllanSilva/python-4d4p//Django">
+  <a href="https://github.com/wesllanSilva/python-4d4p/Django">
     <img src="./img/django-icon.svg" alt="Django" tittle="Django" width="70" height="70">
   </a>
   <!-- Python -->
-  <a href="https://github.com/wesllanSilva/python-4d4p/blob/main/Python/Controle_Financeiro/README.md">
+  <a href="https://github.com/wesllanSilva/python-4d4p/tree/main/Python/Controle_Financeiro">
     <img src="./img/python.svg" alt="python" tittle="Python" width="70" height="70">
 </p><br>
 
-Clique no logotipo da linguagem para conferir soluções que ainda não estão listadas abaixo:
+Clique no logotipo da linguagem ou framework para conferir soluções que ainda não estão listadas abaixo:
 
 <!-- Python -->
 <details>
-    <summary><strong>Python</strong></summary>
+    <summary><strong>Python Puro</strong></summary>
     <br />
     <div align="left">
         <!-- Projetos com Python Puro -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://github.com/wesllanSilva/python-4d4p/tree/main/Python/Controle_Financeiro">Projetos com Python Puro</a></th>
+                <th colspan="3"><a href="https://github.com/wesllanSilva/python-4d4p/tree/main/Python/Controle_Financeiro">Projetos sem framework web</a></th>
             </tr>
             <tr>
-                <th colspan="3"> Python (Controle financeiro)</th>
+                <th colspan="3"> Python</th>
             </tr>
             <tr>
                 <th>Projeto</th>
@@ -37,7 +37,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th>Status</th>
             </tr>
             <tr>
-                <td>Criando um Sistema de Controle financeiro com Python</td>
+                <td>Sistema de Controle financeiro com Python</td>
                 <td><a href="https://github.com/wesllanSilva/python-4d4p/blob/main/Python/Controle_Financeiro/README.md">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
@@ -45,6 +45,38 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td>Testes Com Python</td>
                 <td><a href="https://github.com/wesllanSilva/python-4d4p/blob/main/Python/Teste/README.md">Código</a></td>
                 <td align="center">✔️</td>
+            </tr>                
+        </table>                   
+    </div>
+</details>
+
+<!-- Django -->
+<details>
+    <summary><strong>Django</strong></summary>
+    <br />
+    <div align="left">
+        <!-- Projetos com Django -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://github.com/wesllanSilva/python-4d4p/tree/main/Python/Controle_Financeiro">Projetos fullstack</a></th>
+            </tr>
+            <tr>
+                <th colspan="3"> Django</th>
+            </tr>
+            <tr>
+                <th>Projeto</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Sistema Psicologo</td>
+                <td><a href="https://github.com/wesllanSilva/python-4d4p/blob/main/Python/Controle_Financeiro/README.md">Código</a></td>
+                <td align="center"></td>
+            </tr>
+            <tr>
+                <td>Testes Com Django</td>
+                <td><a href="https://github.com/wesllanSilva/python-4d4p/blob/main/Python/Teste/README.md">Código</a></td>
+                <td align="center"></td>
             </tr>                
         </table>                   
     </div>
