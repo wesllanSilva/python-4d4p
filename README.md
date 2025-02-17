@@ -8,7 +8,7 @@
 <p align="center">
 
   <!-- Django -->
-  <a href="https://github.com/wesllanSilva/python-4d4p/Django">
+  <a href="https://github.com/wesllanSilva/python-4d4p/tree/main/Django">
     <img src="./img/django-icon.svg" alt="Django" tittle="Django" width="70" height="70">
   </a>
   <!-- Python -->
