@@ -58,7 +58,7 @@ Clique no logotipo da linguagem ou framework para conferir soluções que ainda 
         <!-- Projetos com Django -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://github.com/wesllanSilva/python-4d4p/tree/main/Python/Controle_Financeiro">Projetos fullstack</a></th>
+                <th colspan="3"><a href="https://github.com/wesllanSilva/python-4d4p/tree/main/Django">Projetos fullstack</a></th>
             </tr>
             <tr>
                 <th colspan="3"> Django</th>
@@ -70,7 +70,7 @@ Clique no logotipo da linguagem ou framework para conferir soluções que ainda 
             </tr>
             <tr>
                 <td>Sistema Psicologo</td>
-                <td><a href="https://github.com/wesllanSilva/python-4d4p/blob/main/Python/Controle_Financeiro/README.md">Código</a></td>
+                <td><a href="https://github.com/wesllanSilva/python-4d4p/tree/main/Django/README.md">Código</a></td>
                 <td align="center"></td>
             </tr>
             <tr>
